@@ -133,7 +133,7 @@ int main()
         break;
     
     default:
-		cout << "Choice other than 1, 2 and 3";
+		cout << "Choice invalid";
 		
 	}
 	return 0;
